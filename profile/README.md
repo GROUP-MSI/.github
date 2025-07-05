@@ -161,9 +161,9 @@ Somos un grupo apasionado de estudiantes y desarrolladores de la **Universidad U
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unifranz-gamedev&show_icons=true&theme=dark&title_color=DC2626&icon_color=DC2626&text_color=ffffff&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GROUP-MSI&show_icons=true&theme=dark&title_color=DC2626&icon_color=DC2626&text_color=ffffff&bg_color=000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unifranz-gamedev&layout=compact&theme=dark&title_color=DC2626&text_color=ffffff&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GROUP-MSI&layout=compact&theme=dark&title_color=DC2626&text_color=ffffff&bg_color=000000)
 
 </div>
 
@@ -186,14 +186,14 @@ Somos un grupo apasionado de estudiantes y desarrolladores de la **Universidad U
 
 Si te gusta lo que hacemos, ¡considera darnos una ⭐ en nuestros repositorios!
 
-[![GitHub followers](https://img.shields.io/github/followers/unifranz-gamedev?style=social)](https://github.com/unifranz-gamedev)
-[![GitHub stars](https://img.shields.io/github/stars/unifranz-gamedev?style=social)](https://github.com/unifranz-gamedev)
+[![GitHub followers](https://img.shields.io/github/followers/GROUP-MSI?style=social)](https://github.com/GROUP-MSI)
+[![GitHub stars](https://img.shields.io/github/stars/GROUP-MSI?style=social)](https://github.com/GROUP-MSI)
 
 ### 📞 Contacto
 
 📧 **Email**: gamedev@unifranz.edu.bo
 🏢 **Universidad**: UNIFRANZ La Paz, Bolivia
-🌐 **Website**: [unifranz-gamedev.com](#)
+🌐 **Website**: [GROUP-MSI.com](#)
 
 ---
 
